@@ -15,4 +15,4 @@ This project explores transport accessibility patterns across Greater Western Sy
 - RStudio
 
 ## Status
-Currently collecting and cleaning data.
+Project setup and data collection.
