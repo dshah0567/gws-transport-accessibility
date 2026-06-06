@@ -1,11 +1,8 @@
 # Transport Accessibility in Greater Western Sydney
 
-print("Project started")
+print("Starting PTAL project")
 
-research_questions <- c(
-  "Which suburbs have the best access to public transport?",
-  "How does accessibility vary across Greater Western Sydney?",
-  "How might transport access affect education and employment?"
-)
+dataset_name <- "PTAL December 2025"
+print(dataset_name)
 
-print(research_questions)
+print("Next step: load and explore spatial data")
