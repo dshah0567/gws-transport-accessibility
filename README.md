@@ -1,19 +1,22 @@
 # Transport Accessibility in Greater Western Sydney
 
 ## Motivation
-Having lived in Greater Western Sydney for approximately 15 years and relied heavily on public transport throughout high school and now university, I became interested in how access to transport varies across communities.
+Having lived in Greater Western Sydney for most of my life and relied heavily on public transport throughout high school, I became interested in how transport access varies across communities.
 
-This project explores transport accessibility patterns across Greater Western Sydney using publicly available datasets.
+## Data
+This project will use the NSW PTAL (Public Transport Accessibility Level) dataset (December 2025 release), which provides spatial information about transport accessibility across Sydney.
+
+I am currently in the early stages of exploring this dataset and planning how to analyse and visualise it.
 
 ## Research Questions
-- Which suburbs have the greatest access to public transport?
-- How does accessibility vary across Greater Western Sydney?
-- Which areas may face transport disadvantages?
+- Which areas of Greater Western Sydney have the lowest transport accessibility?
+- How does accessibility vary across suburbs?
+- How might transport access affect education and employment opportunities?
 
 ## Tools
-- R
-- RStudio
-- GIS (learning)
+- R (data analysis)
+- GitHub (version control)
+- GIS concepts (currently learning)
 
 ## Status
-Project setup and data collection.
+Project setup and initial exploration.
