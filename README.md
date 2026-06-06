@@ -13,6 +13,7 @@ This project explores transport accessibility patterns across Greater Western Sy
 ## Tools
 - R
 - RStudio
+- GIS (learning)
 
 ## Status
 Project setup and data collection.
