@@ -14,9 +14,9 @@ I am currently in the early stages of exploring this dataset and planning how to
 - How might transport access affect education and employment opportunities?
 
 ## Tools
-- R (data analysis)
+- R and R Studio (data analysis)
 - GitHub (version control)
-- GIS concepts (currently learning)
+- GIS concepts and spatial data analysis (currently learning)
 
 ## Status
 Project setup and initial exploration.
